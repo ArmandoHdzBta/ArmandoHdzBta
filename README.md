@@ -2,19 +2,7 @@
 
 - 🌱 I’m currently a student 😸
 - 😄 Pronouns: He/Him
-
-### Hi there 👋
-------------
-- 🌱 I’m currently a student 😸
-- 😄 Pronouns: He/Him
-```json
-const Armando = [
-    	name: "Armando",
-    	nickname: "Mando",
-    	pronouns: "He" | "Him",
-    	code: ["Java", "PHP", "JavaScript"]
-    ]
-```
+- 🖥️ Code: Java, JavaScript, PHP
 
 <!--
 **ArmandoHdzBta/ArmandoHdzBta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
