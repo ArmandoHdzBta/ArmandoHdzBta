@@ -1,6 +1,7 @@
-### Hi there 👋
+![Banner](img/Banner.png "Banner")
 
 -----------------
+### Hi there 👋
 - 🌱 I’m currently a student 😸
 - 😄 Pronouns: He/Him
 - 🖥️ Code: Java, JavaScript, PHP, C++
