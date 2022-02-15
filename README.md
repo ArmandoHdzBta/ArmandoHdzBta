@@ -1,5 +1,4 @@
-![Banner](img/Banner.png "Banner")
-
+![Banner](img/cover.png "Banner")
 -----------------
 ### Hi there 👋
 - 🌱 I’m currently a student 😸
