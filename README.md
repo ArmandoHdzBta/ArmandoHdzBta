@@ -10,7 +10,6 @@ const about = {
         name: "Armando",
         nickname: "Mando",
         pronouns: "He/Him",
-        ocupation: "Student",
     },
     code: ["JavaScript", "PHP"],
     tools: {
